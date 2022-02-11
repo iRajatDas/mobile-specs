@@ -1,9 +1,7 @@
-Template for the Read the Docs tutorial
+Mobile specifitions divided into five different segments
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+[Mobile Specification FAQs](https://mysmartfaq.com/category/faq) are categorized into five different categories: Design, Display, Performance, Camera, and Battery. We aim to answer as many questions as possible.
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+Read the Mobile Specifications here:
+[MySmartFAQ](https://mysmartfaq.com "MySmartFAQ's Homepage")
