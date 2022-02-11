@@ -5,3 +5,5 @@ Mobile specifitions divided into five different segments
 
 Read the Mobile Specifications here:
 [MySmartFAQ](https://mysmartfaq.com "MySmartFAQ's Homepage")
+
+Latest mobile speciﬁcations typically list each device’s physical dimensions. A device’s width, height, and depth are all measured in inches. For more mobile speciﬁcations<br>Visit <a href="https://mysmartfaq.com">mysmartfaq.com</a>.
