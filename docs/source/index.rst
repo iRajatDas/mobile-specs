@@ -1,22 +1,14 @@
-Welcome to Lumache's documentation!
-===================================
+Mobile specifitions divided into five different segments
+========================================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Mobile Specification FAQs <https://mysmartfaq.com/category/faq>`__ are
+categorized into five different categories: Design, Display,
+Performance, Camera, and Battery. We aim to answer as many questions as
+possible.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Read the Mobile Specifications here:
+`MySmartFAQ <https://mysmartfaq.com>`__
 
-.. note::
-
-   This project is under active development.
-
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+Latest mobile speciﬁcations typically list each device’s physical
+dimensions. A device’s width, height, and depth are all measured in
+inches. For more mobile speciﬁcationsVisit mysmartfaq.com.
